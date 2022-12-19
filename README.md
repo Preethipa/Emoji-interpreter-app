@@ -18,4 +18,4 @@ Step-4: Put an onChange event for change input the emoji.
 Step-5: Put an onClick and map event for set meaning of emojis.
 
 
-It is same procedure for that made in minions fun app.
+
